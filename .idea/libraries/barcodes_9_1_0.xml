@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="barcodes-9.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/File Jar/barcodes-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/bouncy-castle-adapter-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/bouncy-castle-connector-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/bouncy-castle-fips-adapter-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/commons-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/commons-logging-1.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/fontbox-2.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/forms-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/io-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/kernel-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/layout-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/pdfa-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/pdfbox-2.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/pdftest-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/pdfua-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/sign-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/slf4j-simple-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/styled-xml-parser-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/File Jar/svg-9.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
